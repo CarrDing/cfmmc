@@ -1,6 +1,6 @@
 """
-Author: shifulin
-Email: shifulin666@qq.com
+Author: 
+Email: 
 """
 # python3
 import json
