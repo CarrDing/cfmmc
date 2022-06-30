@@ -191,7 +191,7 @@ def do_param(user_id, passwd):
 
 if __name__ == '__main__':
     # 账号
-    account = '001080006066'
+    account = '0010'
     # 密码
-    password = 'bf80006066'
+    password = 'bf66'
     do(account, password)
